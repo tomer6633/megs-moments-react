@@ -1,0 +1,1 @@
+export default{content:["./index.html","./src/**/*.{js,ts,jsx,tsx}"],theme:{extend:{fontFamily:{heading:["Oswald","sans-serif"]},colors:{primary:"#2D6A4F",dark:"#1a2e25",muted:"#f5f9f7",border:"#d4e8de",foreground:"#1a2e25"}}}}
